@@ -1,0 +1,148 @@
+{
+    "question": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          {"id": "option-1", "value": "value-11", "text": "Paris"},
+          {"id": "option-2", "value": "value-12", "text": "Berlin"},
+          {"id": "option-3", "value": "value-13", "text": "London"},
+          {"id": "option-4", "value": "value-14", "text": "Rome"}
+        ]
+      },
+      {
+        "question": "Who wrote 'Harry Potter' series?",
+        "options": [
+          {"id": "option-1", "value": "value-15", "text": "J.K. Rowling"},
+          {"id": "option-2", "value": "value-16", "text": "Stephen King"},
+          {"id": "option-3", "value": "value-17", "text": "George R.R. Martin"},
+          {"id": "option-4", "value": "value-18", "text": "Agatha Christie"}
+        ]
+      },
+      {
+        "question": "Which is the largest ocean in the world?",
+        "options": [
+          {"id": "option-1", "value": "value-21", "text": "Pacific Ocean"},
+          {"id": "option-2", "value": "value-22", "text": "Atlantic Ocean"},
+          {"id": "option-3", "value": "value-23", "text": "Indian Ocean"},
+          {"id": "option-4", "value": "value-24", "text": "Arctic Ocean"}
+        ]
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+          {"id": "option-1", "value": "value-31", "text": "Leonardo da Vinci"},
+          {"id": "option-2", "value": "value-32", "text": "Vincent van Gogh"},
+          {"id": "option-3", "value": "value-33", "text": "Pablo Picasso"},
+          {"id": "option-4", "value": "value-34", "text": "Michelangelo"}
+        ]
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+          {"id": "option-1", "value": "value-41", "text": "H2O"},
+          {"id": "option-2", "value": "value-42", "text": "CO2"},
+          {"id": "option-3", "value": "value-43", "text": "NaCl"},
+          {"id": "option-4", "value": "value-44", "text": "O2"}
+        ]
+      },
+      {
+        "question": "Who is credited with inventing the World Wide Web?",
+        "options": [
+          {"id": "option-1", "value": "value-51", "text": "Tim Berners-Lee"},
+          {"id": "option-2", "value": "value-52", "text": "Bill Gates"},
+          {"id": "option-3", "value": "value-53", "text": "Steve Jobs"},
+          {"id": "option-4", "value": "value-54", "text": "Mark Zuckerberg"}
+        ]
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+          {"id": "option-1", "value": "value-61", "text": "Mars"},
+          {"id": "option-2", "value": "value-62", "text": "Jupiter"},
+          {"id": "option-3", "value": "value-63", "text": "Venus"},
+          {"id": "option-4", "value": "value-64", "text": "Mercury"}
+        ]
+      },
+      {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": [
+          {"id": "option-1", "value": "value-71", "text": "Harper Lee"},
+          {"id": "option-2", "value": "value-72", "text": "John Steinbeck"},
+          {"id": "option-3", "value": "value-73", "text": "F. Scott Fitzgerald"},
+          {"id": "option-4", "value": "value-74", "text": "Ernest Hemingway"}
+        ]
+      },
+      {
+        "question": "Which is the longest river in the world?",
+        "options": [
+          {"id": "option-1", "value": "value-81", "text": "Amazon River"},
+          {"id": "option-2", "value": "value-82", "text": "Nile River"},
+          {"id": "option-3", "value": "value-83", "text": "Yangtze River"},
+          {"id": "option-4", "value": "value-84", "text": "Mississippi River"}
+        ]
+      },
+      {
+        "question": "Who is the author of '1984'?",
+        "options": [
+          {"id": "option-1", "value": "value-91", "text": "George Orwell"},
+          {"id": "option-2", "value": "value-92", "text": "Aldous Huxley"},
+          {"id": "option-3", "value": "value-93", "text": "Franz Kafka"},
+          {"id": "option-4", "value": "value-94", "text": "J.R.R. Tolkien"}
+        ]
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+          {"id": "option-1", "value": "value-101", "text": "Japan"},
+          {"id": "option-2", "value": "value-102", "text": "China"},
+          {"id": "option-3", "value": "value-103", "text": "India"},
+          {"id": "option-4", "value": "value-104", "text": "South Korea"}
+        ]
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "options": [
+          {"id": "option-1", "value": "value-111", "text": "Albert Einstein"},
+          {"id": "option-2", "value": "value-112", "text": "Isaac Newton"},
+          {"id": "option-3", "value": "value-113", "text": "Galileo Galilei"},
+          {"id": "option-4", "value": "value-114", "text": "Stephen Hawking"}
+        ]
+      },
+      {
+        "question": "Which is the largest mammal?",
+        "options": [
+          {"id": "option-1", "value": "value-121", "text": "Blue whale"},
+          {"id": "option-2", "value": "value-122", "text": "Elephant"},
+          {"id": "option-3", "value": "value-123", "text": "Giraffe"},
+          {"id": "option-4", "value": "value-124", "text": "Hippopotamus"}
+        ]
+      },
+      {
+        "question": "Who painted 'The Starry Night'?",
+        "options": [
+          {"id": "option-1", "value": "value-131", "text": "Vincent van Gogh"},
+          {"id": "option-2", "value": "value-132", "text": "Pablo Picasso"},
+          {"id": "option-3", "value": "value-133", "text": "Leonardo da Vinci"},
+          {"id": "option-4", "value": "value-134", "text": "Michelangelo"}
+        ]
+      },
+      {
+        "question": "Which is the largest desert in the world?",
+        "options": [
+          {"id": "option-1", "value": "value-141", "text": "Sahara Desert"},
+          {"id": "option-2", "value": "value-142", "text": "Arabian Desert"},
+          {"id": "option-3", "value": "value-143", "text": "Gobi Desert"},
+          {"id": "option-4", "value": "value-144", "text": "Kalahari Desert"}
+        ]
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "options": [
+          {"id": "option-1", "value": "value-151", "text": "Alexander Fleming"},
+          {"id": "option-2", "value": "value-152", "text": "Louis Pasteur"},
+          {"id": "option-3", "value": "value-153", "text": "Marie Curie"},
+          {"id": "option-4", "value": "value-154", "text": "Jonas Salk"}
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,1610 @@
+{
+    "Physics": [
+        {
+            "id": 1,
+            "question": "Sample question 1 for Physics, related to Mechanics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Mechanics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 2,
+            "question": "Sample question 2 for Physics, related to Optics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Optics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 3,
+            "question": "Sample question 3 for Physics, related to Thermodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Thermodynamics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 4,
+            "question": "Sample question 4 for Physics, related to Electrodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Electrodynamics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 5,
+            "question": "Sample question 5 for Physics, related to Modern Physics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Modern Physics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 6,
+            "question": "Sample question 6 for Physics, related to Mechanics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Mechanics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 7,
+            "question": "Sample question 7 for Physics, related to Optics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Optics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 8,
+            "question": "Sample question 8 for Physics, related to Thermodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Thermodynamics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 9,
+            "question": "Sample question 9 for Physics, related to Electrodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Electrodynamics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 10,
+            "question": "Sample question 10 for Physics, related to Modern Physics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Modern Physics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 11,
+            "question": "Sample question 11 for Physics, related to Mechanics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Mechanics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 12,
+            "question": "Sample question 12 for Physics, related to Optics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Optics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 13,
+            "question": "Sample question 13 for Physics, related to Thermodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Thermodynamics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 14,
+            "question": "Sample question 14 for Physics, related to Electrodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Electrodynamics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 15,
+            "question": "Sample question 15 for Physics, related to Modern Physics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Modern Physics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 16,
+            "question": "Sample question 16 for Physics, related to Mechanics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Mechanics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 17,
+            "question": "Sample question 17 for Physics, related to Optics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Optics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 18,
+            "question": "Sample question 18 for Physics, related to Thermodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Thermodynamics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 19,
+            "question": "Sample question 19 for Physics, related to Electrodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Electrodynamics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 20,
+            "question": "Sample question 20 for Physics, related to Modern Physics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Modern Physics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 21,
+            "question": "Sample question 21 for Physics, related to Mechanics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Mechanics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 22,
+            "question": "Sample question 22 for Physics, related to Optics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Optics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 23,
+            "question": "Sample question 23 for Physics, related to Thermodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Thermodynamics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 24,
+            "question": "Sample question 24 for Physics, related to Electrodynamics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Electrodynamics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 25,
+            "question": "Sample question 25 for Physics, related to Modern Physics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Physics",
+                "Modern Physics"
+            ],
+            "level": "easy"
+        }
+    ],
+    "Chemistry": [
+        {
+            "id": 26,
+            "question": "Sample question 26 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 27,
+            "question": "Sample question 27 for Chemistry, related to Inorganic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Inorganic Chemistry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 28,
+            "question": "Sample question 28 for Chemistry, related to Organic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Organic Chemistry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 29,
+            "question": "Sample question 29 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 30,
+            "question": "Sample question 30 for Chemistry, related to Inorganic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Inorganic Chemistry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 31,
+            "question": "Sample question 31 for Chemistry, related to Organic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Organic Chemistry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 32,
+            "question": "Sample question 32 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 33,
+            "question": "Sample question 33 for Chemistry, related to Inorganic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Inorganic Chemistry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 34,
+            "question": "Sample question 34 for Chemistry, related to Organic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Organic Chemistry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 35,
+            "question": "Sample question 35 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 36,
+            "question": "Sample question 36 for Chemistry, related to Inorganic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Inorganic Chemistry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 37,
+            "question": "Sample question 37 for Chemistry, related to Organic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Organic Chemistry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 38,
+            "question": "Sample question 38 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 39,
+            "question": "Sample question 39 for Chemistry, related to Inorganic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Inorganic Chemistry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 40,
+            "question": "Sample question 40 for Chemistry, related to Organic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Organic Chemistry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 41,
+            "question": "Sample question 41 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 42,
+            "question": "Sample question 42 for Chemistry, related to Inorganic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Inorganic Chemistry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 43,
+            "question": "Sample question 43 for Chemistry, related to Organic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Organic Chemistry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 44,
+            "question": "Sample question 44 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 45,
+            "question": "Sample question 45 for Chemistry, related to Inorganic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Inorganic Chemistry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 46,
+            "question": "Sample question 46 for Chemistry, related to Organic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Organic Chemistry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 47,
+            "question": "Sample question 47 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 48,
+            "question": "Sample question 48 for Chemistry, related to Inorganic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Inorganic Chemistry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 49,
+            "question": "Sample question 49 for Chemistry, related to Organic Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Organic Chemistry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 50,
+            "question": "Sample question 50 for Chemistry, related to Physical Chemistry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Chemistry",
+                "Physical Chemistry"
+            ],
+            "level": "easy"
+        }
+    ],
+    "Mathematics": [
+        {
+            "id": 76,
+            "question": "Sample question 76 for Mathematics, related to Calculus.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Calculus"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 77,
+            "question": "Sample question 77 for Mathematics, related to Algebra.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Algebra"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 78,
+            "question": "Sample question 78 for Mathematics, related to Coordinate Geometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Coordinate Geometry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 79,
+            "question": "Sample question 79 for Mathematics, related to Trigonometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Trigonometry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 80,
+            "question": "Sample question 80 for Mathematics, related to Probability.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Probability"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 81,
+            "question": "Sample question 81 for Mathematics, related to Calculus.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Calculus"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 82,
+            "question": "Sample question 82 for Mathematics, related to Algebra.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Algebra"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 83,
+            "question": "Sample question 83 for Mathematics, related to Coordinate Geometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Coordinate Geometry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 84,
+            "question": "Sample question 84 for Mathematics, related to Trigonometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Trigonometry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 85,
+            "question": "Sample question 85 for Mathematics, related to Probability.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Probability"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 86,
+            "question": "Sample question 86 for Mathematics, related to Calculus.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Calculus"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 87,
+            "question": "Sample question 87 for Mathematics, related to Algebra.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Algebra"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 88,
+            "question": "Sample question 88 for Mathematics, related to Coordinate Geometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Coordinate Geometry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 89,
+            "question": "Sample question 89 for Mathematics, related to Trigonometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Trigonometry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 90,
+            "question": "Sample question 90 for Mathematics, related to Probability.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Probability"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 91,
+            "question": "Sample question 91 for Mathematics, related to Calculus.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Calculus"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 92,
+            "question": "Sample question 92 for Mathematics, related to Algebra.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Algebra"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 93,
+            "question": "Sample question 93 for Mathematics, related to Coordinate Geometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Coordinate Geometry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 94,
+            "question": "Sample question 94 for Mathematics, related to Trigonometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Trigonometry"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 95,
+            "question": "Sample question 95 for Mathematics, related to Probability.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Probability"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 96,
+            "question": "Sample question 96 for Mathematics, related to Calculus.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Calculus"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 97,
+            "question": "Sample question 97 for Mathematics, related to Algebra.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Algebra"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 98,
+            "question": "Sample question 98 for Mathematics, related to Coordinate Geometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Coordinate Geometry"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 99,
+            "question": "Sample question 99 for Mathematics, related to Trigonometry.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Trigonometry"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 100,
+            "question": "Sample question 100 for Mathematics, related to Probability.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Mathematics",
+                "Probability"
+            ],
+            "level": "easy"
+        }
+    ],
+    "Biology": [
+        {
+            "id": 51,
+            "question": "Sample question 51 for Biology, related to Cell Biology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Cell Biology"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 52,
+            "question": "Sample question 52 for Biology, related to Genetics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Genetics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 53,
+            "question": "Sample question 53 for Biology, related to Ecology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Ecology"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 54,
+            "question": "Sample question 54 for Biology, related to Physiology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Physiology"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 55,
+            "question": "Sample question 55 for Biology, related to Cell Biology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Cell Biology"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 56,
+            "question": "Sample question 56 for Biology, related to Genetics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Genetics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 57,
+            "question": "Sample question 57 for Biology, related to Ecology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Ecology"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 58,
+            "question": "Sample question 58 for Biology, related to Physiology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Physiology"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 59,
+            "question": "Sample question 59 for Biology, related to Cell Biology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Cell Biology"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 60,
+            "question": "Sample question 60 for Biology, related to Genetics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Genetics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 61,
+            "question": "Sample question 61 for Biology, related to Ecology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Ecology"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 62,
+            "question": "Sample question 62 for Biology, related to Physiology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Physiology"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 63,
+            "question": "Sample question 63 for Biology, related to Cell Biology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Cell Biology"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 64,
+            "question": "Sample question 64 for Biology, related to Genetics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Genetics"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 65,
+            "question": "Sample question 65 for Biology, related to Ecology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Ecology"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 66,
+            "question": "Sample question 66 for Biology, related to Physiology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Physiology"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 67,
+            "question": "Sample question 67 for Biology, related to Cell Biology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Cell Biology"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 68,
+            "question": "Sample question 68 for Biology, related to Genetics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Genetics"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 69,
+            "question": "Sample question 69 for Biology, related to Ecology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Ecology"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 70,
+            "question": "Sample question 70 for Biology, related to Physiology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Physiology"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 71,
+            "question": "Sample question 71 for Biology, related to Cell Biology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Cell Biology"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 72,
+            "question": "Sample question 72 for Biology, related to Genetics.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Genetics"
+            ],
+            "level": "easy"
+        },
+        {
+            "id": 73,
+            "question": "Sample question 73 for Biology, related to Ecology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Ecology"
+            ],
+            "level": "medium"
+        },
+        {
+            "id": 74,
+            "question": "Sample question 74 for Biology, related to Physiology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Physiology"
+            ],
+            "level": "hard"
+        },
+        {
+            "id": 75,
+            "question": "Sample question 75 for Biology, related to Cell Biology.",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C",
+                "Option D"
+            ],
+            "correct_option": "Option A",
+            "tags": [
+                "Biology",
+                "Cell Biology"
+            ],
+            "level": "easy"
+        }
+    ]
+}

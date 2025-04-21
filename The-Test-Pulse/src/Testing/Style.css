@@ -1,0 +1,9 @@
+.homePage{
+    background:linear-gradient(to bottom, rgba(33, 118, 255, 0.378), rgba(218, 229, 248, 0)), 
+    url(../Assests/BackGround.jpg) center no-repeat;
+    background-position: 100% 100%;
+    background-size:cover;
+    /* border: 2px solid red; */
+    height: 100vh;
+    width: 100%;
+} 
